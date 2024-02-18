@@ -37,7 +37,7 @@ Fuzzy partitioning is carried out through an iterative membership uij and the cl
 ### Segmentation result and residual from membership matrix at step 40
 
 <p align="center">
-  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/original.png?raw=true" width="400" />
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/original.png?raw=true" width="200" />
   <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/segmentation_step_40.png?raw=true" width="200" />
-  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/residual_step_40.png?raw=true" width="400" />
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/residual_step_40.png?raw=true" width="200" />
 </p>
