@@ -11,10 +11,27 @@ Fuzzy partitioning is carried out through an iterative membership uij and the cl
 
 ## Centers Vectors Compuation
 
-![alt text](https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/centers_compute.png?raw=true)
+<p align="center">
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/centers_compute.png?raw=true" width="200" />
+</p>
 
 ## Membership Matrix update
 
-![alt text](https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/membership_update.png?raw=true)
+<p align="center">
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/membership_update.png?raw=true" width="200" />
+</p>
+
 
 ## Some Results 
+
+<p align="center">
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/original.png?raw=true" width="200" />
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/segmentation_step_1.png?raw=true" width="200" />
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/residual_step_1.png?raw=true" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/original.png?raw=true" width="200" />
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/segmentation_step_40.png?raw=true" width="200" />
+  <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/residual_step_40.png?raw=true" width="200" />
+</p>
