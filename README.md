@@ -7,9 +7,9 @@ Fuzzy cmeans (FCM) is a method of clustering which allows one piece of data to b
   <img src="https://github.com/tiserge2/fuzzy-clustering/blob/main/figures/objective_function.png?raw=true" width="600" />
 </p>
 
-where m is any real number greater than 1, uij is the degree of membership of xi in the cluster j, xi is the ith of d-dimensional measured data, cj is the ddimension center of the cluster, and ||*|| is any norm expressing the similarity between any measured data and the center.
+where m is any real number greater than 1, u<sup>ij</sup> is the degree of membership of xi in the cluster j, x<sup>i</sup> is the ith of d-dimensional measured data, c<sup>j</sup> is the d-dimension center of the cluster, and ||*|| is any norm expressing the similarity between any measured data and the center.
 
-Fuzzy partitioning is carried out through an iterative membership uij and the cluster centers cj
+Fuzzy partitioning is carried out through an iterative membership uij and the cluster centers c<sup>j</sup>.
 
 ## Centers Vectors Compuation
 
